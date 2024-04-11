@@ -1,0 +1,10 @@
+/1h 1-cree fonctionnement page 
+/2h 2-remetre lecture de fichier
+/4h 3-cree fonctionnement global
+/10h 4-ajouter ajouter une condition de victoooire
+    genre ta 10 essay et tu dois rep a 10 question en utilisent le moins d'essay et le but c'est de faire une question 1 essay
+//5-score 
+/12h 6-rmettre tout les truc cool de hangman
+7-ajoouter un ta d'option
+    genre indice qui va nous enlever une case
+/1h 8-commentaire

@@ -1,0 +1,70 @@
+Quelle est la couleur du ciel ?
+:
+F-a) Rouge
+V-b) Bleu
+F-c) Vert
+F-d) Jaune
+121
+Combien de doigts a une main ?
+:
+F-a) Deux
+F-b) Quatre
+V-c) Cinq
+F-d) Six
+121
+Quel animal miaule généralement ?
+:
+F-a) Chien
+V-b) Chat
+F-c) Oiseau
+F-d) Lapin
+121
+Quel est le mois qui vient après juin ?
+:
+F-a) Juillet
+F-b) Mai
+F-c) Août
+V-d) Septembre
+121
+Quel est le nom de la capitale des États-Unis ?
+:
+F-a) Washington D.C.
+F-b) New York
+F-c) Los Angeles
+V-d) Chicago
+121
+Quel est l'océan le plus grand ?
+:
+F-a) Atlantique
+V-b) Pacifique
+F-c) Indien
+F-d) Arctique
+121
+Combien de côtés a un triangle ?
+:
+F-a) Quatre
+F-b) Cinq
+V-c) Trois
+F-d) Six
+121
+Quelle est la première lettre de l'alphabet ?
+:
+F-a) B
+F-b) C
+V-c) A
+F-d) D
+121
+
+Quel est le plus petit nombre entier ?
+:
+V-a) Zéro
+F-b) Un
+F-c) Deux
+F-d) Trois
+121
+Combien de saisons y a-t-il dans une année ?
+:
+F-a) Une
+F-b) Deux
+V-c) Quatre
+F-d) Cinq

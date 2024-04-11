@@ -1,0 +1,62 @@
+Quel animal est associé au traîneau du Père Noël ?
+:
+V-a) Renne
+F-b) Renard
+F-c) Ours
+F-d) Lapin
+121
+Quel jour est célébré Noël ?
+:
+F-a) 25 décembre
+F-b) 24 décembre
+V-c) 25 novembre
+F-d) 1er janvier
+121
+Quel est le nom du bonhomme jovial qui distribue des cadeaux à Noël ?
+:
+F-a) Père Printemps
+F-b) Père Noël
+F-c) Père Été
+V-d) Père Automne
+121
+Quelle couleur est associée à Noël ?
+:
+F-a) Bleu
+F-b) Vert
+V-c) Rouge
+F-d) Jaune
+121
+Quelle est la tradition consistant à embrasser sous une branche de gui ?
+:
+F-a) La distribution de cadeaux
+F-b) La bûche de Noël
+F-c) Le dîner en famille
+V-d) Le baiser sous le gui
+121
+Quel arbre est traditionnellement décoré à Noël ?
+:
+V-a) Sapin
+F-b) Palmier
+F-c) Érable
+F-d) Chêne
+121
+Quel personnage est souvent associé à l'histoire de Noël dans les crèches ?
+:
+F-a) Le Père Noël
+F-b) Les Elfes
+F-c) Les Rois mages
+V-d) Jésus-Christ
+121
+Quel est le nom de l'animal qui accompagne le Père Noël dans plusieurs histoires ?
+:
+F-a) Lapin
+V-b) Renne
+F-c) Chat
+F-d) Ours
+121
+Quel est le nom du plat principal traditionnellement servi lors du dîner de Noël ?
+:
+V-a) Dinde
+F-b) Pizza
+F-c) Sushi
+F-d) Hamburger

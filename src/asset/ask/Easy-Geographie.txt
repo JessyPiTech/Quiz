@@ -1,0 +1,62 @@
+Quel est le plus grand océan du monde ?
+:
+V-a) Pacifique
+F-b) Atlantique
+F-c) Indien
+F-d) Arctique
+121
+Quelle est la capitale de la France ?
+:
+F-a) Berlin
+V-b) Paris
+F-c) Londres
+F-d) Rome
+121
+Dans quel pays se trouve le Taj Mahal ?
+:
+V-a) Inde
+F-b) Chine
+F-c) Japon
+F-d) Thaïlande
+121
+Quel est le plus grand désert du monde ?
+:
+F-a) Sahara
+F-b) Gobi
+F-c) Kalahari
+V-d) Antarctique
+121
+Quel est le plus haut sommet du monde ?
+:
+F-a) Mont Blanc
+F-b) Kilimandjaro
+V-c) Everest
+F-d) K2
+121
+Quelle est la plus grande île du monde ?
+:
+F-a) Madagascar
+F-b) Bornéo
+F-c) Sumatra
+V-d) Groenland
+121
+Quel est le plus long fleuve du monde ?
+:
+V-a) Nil
+F-b) Amazone
+F-c) Mississippi
+F-d) Yangtsé
+121
+Quelle est la ligne qui divise la Terre en deux hémisphères ?
+:
+F-a) Tropique du Cancer
+V-b) Équateur
+F-c) Tropique du Capricorne
+F-d) Méridien de Greenwich
+121
+Quel est le plus grand lac d'eau douce du monde ?
+:
+F-a) Lac Victoria
+F-b) Lac Supérieur
+V-c) Lac Baïkal
+F-d) Lac Tanganyika

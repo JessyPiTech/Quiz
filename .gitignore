@@ -1,0 +1,9 @@
+# Ignore les fichiers de configuration spécifiques à Go
+/src/go.mod
+/src/go.sum
+
+# Ignore les fichiers de sortie exécutables
+Quiz.exe
+
+# Ignore le fichier a-fair.txt
+a-fair.txt

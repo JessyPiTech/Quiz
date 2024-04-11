@@ -1,0 +1,69 @@
+Quel est l'inventeur du téléphone ?
+:
+F-a) Thomas Edison
+V-b) Alexander Graham Bell
+F-c) Nikola Tesla
+F-d) Benjamin Franklin
+121
+Quelle est la capitale du Canada ?
+:
+F-a) Toronto
+V-b) Ottawa
+F-c) Vancouver
+F-d) Montréal
+121
+Qui a écrit "Hamlet" ?
+:
+F-a) Charles Dickens
+V-b) William Shakespeare
+F-c) Jane Austen
+F-d) Mark Twain
+121
+Quelle est la monnaie de l'Allemagne ?
+:
+V-a) Euro
+F-b) Livre sterling
+F-c) Dollar américain
+F-d) Mark allemand
+121
+Où se trouve la Tour Eiffel ?
+:
+F-a) Rome
+V-b) Paris
+F-c) Madrid
+F-d) Berlin
+121
+Quelle est la plus grande île du monde ?
+:
+F-a) Groenland
+F-b) Madagascar
+F-c) Nouvelle-Guinée
+V-d) Île de Baffin
+121
+Quel est le symbole chimique de l'or ?
+:
+V-a) Au
+F-b) Ag
+F-c) Fe
+F-d) Hg
+121
+Quel est le plus grand animal terrestre ?
+:
+F-a) Éléphant
+F-b) Rhinocéros
+V-c) Girafe
+F-d) Gorille
+121
+Quelle est la capitale de l'Australie ?
+:
+F-a) Sydney
+F-b) Melbourne
+V-c) Canberra
+F-d) Brisbane
+121
+Qui a peint "Les Nymphéas" ?
+:
+V-a) Claude Monet
+F-b) Pablo Picasso
+F-c) Vincent van Gogh
+F-d) Salvador Dalí

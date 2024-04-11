@@ -1,0 +1,26 @@
+Rapport de Projet
+Titre : Quiz web avec Golang
+
+
+Tout d'abord un trello me permit de me tenir une feuille de route a suivre pour noté les chose a faire, puis j'ai disigne l'interface utilisateur avec canva pour me servire d'exmple a suivre.
+Ensuite, il faut savoir que pour ce projet de quiz, une grande partie du code a été adaptée à partir du projet hangman-web, étant donné les similitudes entre les deux.
+
+En reprenant la base que j'avais créée pour le hangman web, j'ai ajouté quelques lignes pour rendre grossièrement le jeu fonctionnel. 
+Cela a notamment inclus toute la gestion des questions et des réponses, ce qui s'est révélé assez complexe en raison de l'utilisation de tableaux d'interfaces avec la variable "AnswerAll" qui récupère toutes les réponses de mon fichier texte ainsi que leur valeur (vrai/faux). Pour accomplir cela, j'ai consulté plusieurs cours de W3Schools et j'ai sollicité l'aide de ChatGPT pour corriger ce que j'avais réalisé.
+
+Une fois cette étape franchie, la suivante a été de vérifier si notre réponse était correcte ou non, ce qui n'a pas été très compliqué. 
+Il m'a suffi de vérifier si la réponse obtenue était précédée d'un "V" dans le fichier texte.
+
+Ce qui a été un peu plus difficile a été d'appliquer une classe CSS spécifique à une réponse si elle était incorrecte. 
+J'ai fini par opter pour une solution assez simple en créant simplement un tableau de vrais/faux correspondant à une position, et le reste a été géré par le HTML qui vérifie à la position indiquée si elle a déjà été devinée (true), auquel cas la réponse reste bleue ; sinon, elle devient rouge.
+
+Une fois cette étape passée, il ne restait plus qu'à travailler sur l'HTML et le CSS, mais il a tout de même été nécessaire de faire quelques recherches pour créer un carrousel pleinement fonctionnel. 
+Je me suis notamment rendu sur https://freefrontend.com/css-carousels/ pour trouver des exemples, et j'ai repris un peu de JavaScript d'autres projets.
+
+Quant au style de la page, je suis d'abord parti sur quelque chose de très simple avec des images récupérées sur Canva, puis je suis passé à des images générées par IA, en optant pour un style futuriste avec des teintes de bleu, de violet et de blanc.
+
+Pour les fichiers textes, je me suis reposé sur ChatGPT pour me fournir les questions et les réponses des questionnaires, en variant les niveaux de difficulté et les thèmes, tout en respectant une même nomenclature.
+
+En conclusion, le développement de cette plateforme de quiz web en Golang a été un processus enrichissant et stimulant. 
+Grâce à une planification minutieuse et une exécution méticuleuse.
+

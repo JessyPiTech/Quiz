@@ -1,0 +1,62 @@
+Qui a écrit "Roméo et Juliette" ?
+:
+F-a) William Shakespeare
+F-b) Charles Dickens
+F-c) Jane Austen
+V-d) Victor Hugo
+121
+Dans quel pays se trouve la Tour Eiffel ?
+:
+F-a) Italie
+F-b) Espagne
+F-c) Allemagne
+V-d) France
+121
+Quel est le symbole chimique de l'eau ?
+:
+F-a) Na
+F-b) Cl
+F-c) H
+V-d) H2O
+121
+Qui a peint la célèbre peinture "La Nuit étoilée" ?
+:
+V-a) Claude Monet
+F-b) Pablo Picasso
+F-c) Vincent van Gogh
+F-d) Leonardo da Vinci
+121
+Quel est le nom de la célèbre pomme croquée, symbole d'une grande entreprise informatique ?
+:
+F-a) Microsoft
+F-b) IBM
+V-c) Apple
+F-d) Samsung
+121
+Quel est le nom de la plus grande planète de notre système solaire ?
+:
+F-a) Mars
+F-b) Jupiter
+F-c) Mercure
+V-d) Saturne
+121
+Qui a écrit "Les Misérables" ?
+:
+V-ad) Gustave Flaubert
+F-b) Alexandre Dumas
+F-c) Honoré de Balzac
+F-d) Victor Hugo
+121
+Dans quel sport Michael Jordan est-il célèbre ?
+:
+F-a) Football
+F-b) Tennis
+F-c) Golf
+V-d) Basketball
+121
+Quel est le nom du plus haut sommet du monde ?
+:
+V-a) K2
+F-b) Mont Everest
+F-c) Kilimandjaro
+F-d) Mont Blanc

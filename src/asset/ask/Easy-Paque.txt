@@ -1,0 +1,62 @@
+Quel jour est célébré Pâques ?
+:
+F-a) Le dimanche de Pâques
+F-b) Le samedi de Pâques
+V-d) Le lundi de Pâques
+F-c) Le vendredi de Pâques
+121
+Quel animal est traditionnellement associé à Pâques ?
+:
+V-a) Lapin
+F-b) Vache
+F-c) Renne
+F-d) Poulet
+121
+Quelle est la tradition de Pâques qui consiste à chercher des œufs cachés ?
+:
+F-a) La chasse aux lapins
+V-b) La chasse aux œufs
+F-c) La chasse aux cailles
+F-d) La chasse aux carottes
+121
+Quel est le nom du jour qui précède immédiatement Pâques ?
+:
+F-a) Vendredi saint
+F-b) Jeudi saint
+F-c) Samedi saint
+V-d) Dimanche des Rameaux
+121
+Quelle est la signification religieuse de Pâques pour les chrétiens ?
+:
+F-a) La naissance de Jésus
+F-b) La résurrection de Jésus
+V-c) L'ascension de Jésus
+F-d) La crucifixion de Jésus
+121
+Quel est le nom de la célébration juive qui coïncide souvent avec Pâques chrétien ?
+:
+V-a) Pessa'h
+F-b) Hanoukka
+F-c) Roch Hachana
+F-d) Kippour
+121
+Quel dessert est souvent associé à Pâques ?
+:
+F-a) Galette des Rois
+F-b) Bûche de Noël
+F-c) Crêpes
+V-d) Œufs en chocolat
+121
+Quelle est la tradition de Pâques qui consiste à échanger des paniers remplis de sucreries ?
+:
+F-a) La distribution des poules
+F-b) La distribution des lapins
+V-c) La distribution des paniers
+F-d) La distribution des colombes
+121
+Quel est le nom du repas traditionnel de Pâques ?
+:
+F-a) Le repas de Pâques
+F-b) Le repas de Noël
+F-c) Le repas de Thanksgiving
+V-d) Le repas pascal

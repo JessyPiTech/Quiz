@@ -1,0 +1,12 @@
+# Puissance-4-cli (Game terminal)
+
+# Introduction
+Hello, new gamer! Now you are faced with the Quiz. You can play on diffrent theme and seris
+
+# To install
+Clone the repository "https://ytrack.learn.ynov.com/git/pjessy/quiz.git" and navigate to the Quiz folder using your terminal.
+
+# To start, execute "make build" in the root directory. Then, do make run and start en game with an friend. 
+After playing, press Ctrl+C and run "make clean".
+
+Enjoy your game!

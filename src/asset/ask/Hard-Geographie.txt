@@ -1,0 +1,62 @@
+Quelle est la ville la plus haute du monde ?
+:
+F-a) La Paz, Bolivie
+F-b) Lhassa, Tibet
+F-c) Quito, Équateur
+V-d) El Alto, Bolivie
+121
+Quel est le nom du plus grand désert de sel du monde ?
+:
+F-a) Désert du Sahara
+F-b) Désert de Gobi
+V-c) Salar de Uyuni
+F-d) Désert de l'Atacama
+121
+Quelle est la plus grande île du monde ?
+:
+V-a) Groenland
+F-b) Australie
+F-c) Madagascar
+F-d) Groenland
+121
+Quel est le nom de la ville la plus peuplée d'Afrique ?
+:
+F-a) Lagos, Nigeria
+F-b) Le Caire, Égypte
+F-c) Kinshasa, République démocratique du Congo
+V-d) Lagos, Nigeria
+121
+Quelle est la plus haute montagne d'Europe ?
+:
+F-a) Mont Blanc
+V-b) Elbrouz
+F-c) Mont Blanc de Courmayeur
+F-d) Mont Elbrouz
+121
+Quelle est la plus grande île d'Asie ?
+:
+F-a) Bornéo
+F-b) Sumatra
+F-c) Java
+V-d) Groenland
+121
+Quelle est la plus grande ville du monde en termes de superficie ?
+:
+F-a) New York, États-Unis
+F-b) Tokyo, Japon
+F-c) Shanghai, Chine
+V-d) Chongqing, Chine
+121
+Quel est le nom du plus grand canyon du monde ?
+:
+F-a) Grand Canyon, États-Unis
+F-b) Canyon de Colca, Pérou
+F-c) Canyon du Yarlung Tsangpo, Tibet
+V-d) Canyon de la Tsiribihina, Madagascar
+121
+Quel est le nom du plus grand archipel du monde ?
+:
+F-a) Hawaï, États-Unis
+F-b) Japon
+V-c) Indonésie
+F-d) Philippines
